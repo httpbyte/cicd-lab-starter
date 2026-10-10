@@ -31,4 +31,4 @@ jobs:
         run: npm ci
 
       - name: Verify application
-        run: npm run verifys
+        run: npm run verify 
